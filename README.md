@@ -128,7 +128,7 @@ ros2 run turtlesim turtlesim_node
 
 3. Di terminal baru, jalankan node Archimedean Spiral:
 ```bash
-ros2 run turtlelsim_drawing draw_publisher
+ros2 run turtlesim_drawing draw_publisher
 ```
 
 ## Credit
