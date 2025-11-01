@@ -1,6 +1,7 @@
 # Archimedean Spiral ROS 2
 
 Aplikasi ROS2 yang menggunakan turtlesim untuk menggambar pola [spiral archimedean](https://en.wikipedia.org/wiki/Archimedean_spiral).
+![Contoh hasil penggambaran](hasil.png)
 
 ## Prasyarat
 
